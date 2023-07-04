@@ -1,7 +1,6 @@
 # Physics Undergraduate Portfolio
 
 This portfolio includes hand selected work that I am particularly proud of, some work completed during my degree may obtain it's own repository.
-#
 
 ## Lab Reports
 A selection of 'formal' reports based on experiments completed throughout my degree, all reports are listed below with abstracts included.
