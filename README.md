@@ -11,6 +11,14 @@ This portfolio includes hand selected work that I am particularly proud of, some
 
 ## Computational Physics (2nd Year)
 
+### Numerical analysis of fresnel diffraction
+
+(Dated: February 15, 2023)
+
+- [Fresnel Diffraction Repo](https://github.com/DrDavie1/fresnel-diffraction)
+
+(Mark: 86%)
+
 ### Numerical Analysis Of Free Fall with Fixed and Varying Drag
 
 (Dated: November 28, 2022)
