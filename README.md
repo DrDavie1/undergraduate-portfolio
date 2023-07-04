@@ -2,12 +2,12 @@
 
 This portfolio includes hand selected work that I am particularly proud of, some work completed during my degree may obtain it's own repository.
 
+(Location: School of Physics, University of Bristol)
+
 ## Computational Projects
 
 ## Lab Reports
 A selection of 'formal' reports based on experiments completed throughout my degree, all reports are listed below with abstracts included.
-
-(Location: School of Physics, University of Bristol)
 #
 
 ### Quarter wave plates and their potential to increase the accuracy of the Foucault determination of the speed of light
