@@ -11,6 +11,14 @@ This portfolio includes hand selected work that I am particularly proud of, some
 
 ## Computational Physics (2nd Year)
 
+### Investigating numerical accuracy of the Runge-Kutta Method for simulating Newtonian gravity
+
+(Dated: March 19, 2023)
+
+- [Moonshot Repo](https://github.com/DrDavie1/moon-shot-simulation)
+
+(Mark: 89%)
+
 ### Numerical analysis of fresnel diffraction
 
 (Dated: February 15, 2023)
@@ -29,6 +37,9 @@ jump, taking Felix’s mass as 110kg and area as 0.9 correctly predicts
 that Felix broke the sound barrier
 
 (Mark: 75%)
+
+
+## Computational Physics (1st Year)
 
 ## Lab Reports
 A selection of 'formal' reports based on experiments completed throughout my degree, all reports are listed below with abstracts included.
