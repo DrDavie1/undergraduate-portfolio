@@ -2,6 +2,11 @@
 
 This portfolio includes hand selected work that I am particularly proud of, some work completed during my degree may obtain it's own repository.
 
+#### Contents:
+ - Computational Physics (2nd Year)
+ - Computational Physics (1st Year)
+ - Lab Reports
+
 (Location: School of Physics, University of Bristol)
 
 ## Computational Physics (2nd Year)
