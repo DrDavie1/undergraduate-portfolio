@@ -15,13 +15,15 @@ This portfolio includes hand selected work that I am particularly proud of, some
 
 (Dated: November 28, 2022)
 
-[Free Fall Repository](https://github.com/DrDavie1/Numerical-Analysis-Of-Free-Fall-with-Fixed-and-Varying-Drag)
+The aim of this project is to accurately model the jump that Felix Baumgartner took from 39045m in 2012,
+along with demonstrating the mass and cross sectional area required to break the sound barrier. Modelling the
+jump, taking Felix’s mass as 110kg and area as 0.9 correctly predicts
+that Felix broke the sound barrier
 
-(Mark: 94%)
+(Mark: 75%)
 
 ## Lab Reports
 A selection of 'formal' reports based on experiments completed throughout my degree, all reports are listed below with abstracts included.
-#
 
 ### Effect of Enclosure Symmetry on Acoustic Resonance
 (Dated: April 28, 2023)
