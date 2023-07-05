@@ -1,0 +1,28 @@
+---------THEORETICAL ANALYSIS OF THE ROLE OF DRAG---------
+
+
+    -----PROJECT OVERVIEW----
+
+    Disclaimer: This is a University assignment therefore not all the ideas are my own.
+		However, the code is.
+	
+    The Aims of the assignment where:
+	- Understand how air resistance modifies the familiar equations of projectile motion
+        - Formulate a physical model and to solve that model
+	- Assess the reliability and significance of results
+	- Manipulate and present data
+	- Design a scheme for collecting numerically generated data efficiently
+	- Report the results of numerical simulations
+
+    Libraries Used:
+
+        - sympy
+        - matplotlib
+        - numpy
+
+
+    Skills shown: Data analysis, Data presentation, Mathematical Functions and Data manipulation. 
+
+    -----Running Information----
+
+    Simply run the jupyter notebook from start to finish. 
