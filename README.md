@@ -3,13 +3,13 @@
 This portfolio includes hand selected work that I am particularly proud of (therefore it does not include all the coursework i completed), some work completed during my degree may obtain it's own repository, others will be included within this repository.
 
 #### Contents:
- - Computational Physics (2nd Year)
- - Lab Reports
+ - [Computational Physics (2nd Year)](#CP2)
+ - [Lab Reports](#LR)
  - Computational Physics (1st Year)
 
 (Location: School of Physics, University of Bristol)
 
-## Computational Physics (2nd Year)
+## Computational Physics (2nd Year) <a name="CP2"></a>
 
 ### Investigating numerical accuracy of the Runge-Kutta Method for simulating Newtonian gravity
 
@@ -38,7 +38,7 @@ that Felix broke the sound barrier
 
 (Mark: 75%)
 
-## Lab Reports
+## Lab Reports <a name="LR"></a>
 A selection of 'formal' reports based on experiments completed throughout my degree, all reports are listed below with abstracts included.
 
 ### Effect of Enclosure Symmetry on Acoustic Resonance
