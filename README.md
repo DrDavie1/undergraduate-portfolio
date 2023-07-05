@@ -1,6 +1,6 @@
 # Physics Undergraduate Portfolio <img src="https://github.com/DrDavie1/DrDavie1/blob/main/Images/orbit.png" width="3%" height="3%"> 
 
-This portfolio includes hand selected work that I am particularly proud of (therefore it does not include all the coursework i completed), some work completed during my degree may obtain it's own repository, others will be included within this repository.
+This portfolio includes hand selected work that I am particularly proud of (therefore it does not include all the coursework i completed), work of the highest quality completed during my degree will obtain it's own repository, others will be included within this repository. 
 
 #### Contents:
 1. <a href="#comp-phys2">Computational Physics (2nd Year)</a>
@@ -56,4 +56,21 @@ The aim of this paper is to demonstrate how the Foucault method can be improved 
 (Mark: 78%)
 
 ## <a id="comp-phys1" href="comp-phys1">Computational Physics (1st Year)</a>
+
+### Approximating PI using arctangent taylor expansion
+
+(Dated: Sep 29, 2022)
+
+(Mark: 90%)
+
+### Exploring the Boltzmann distribution
+
+(Dated Sep 25, 2022)
+
+
+
+
+
+
+
 
