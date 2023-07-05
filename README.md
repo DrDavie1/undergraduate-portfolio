@@ -65,7 +65,11 @@ The aim of this paper is to demonstrate how the Foucault method can be improved 
 
 ### Exploring the Boltzmann distribution
 
-(Dated Sep 25, 2022)
+(Dated: Sep 25, 2022)
+
+### Theoretical analysis of the role of drag
+
+(Dated: Oct 22, 2022)
 
 
 
